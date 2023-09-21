@@ -1,0 +1,3 @@
+Initial -
+Template: Console Application (.NET)
+Framework: .NET Framework 4.7.2
