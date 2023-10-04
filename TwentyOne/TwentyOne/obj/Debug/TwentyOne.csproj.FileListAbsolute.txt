@@ -1,0 +1,7 @@
+C:\Github\TTA_TwentyOneGuide\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Github\TTA_TwentyOneGuide\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Github\TTA_TwentyOneGuide\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Github\TTA_TwentyOneGuide\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Github\TTA_TwentyOneGuide\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Github\TTA_TwentyOneGuide\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Github\TTA_TwentyOneGuide\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb

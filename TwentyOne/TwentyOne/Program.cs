@@ -10,6 +10,17 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            Deck deck = new Deck();
+            //deck.Cards = new List<Card>();  DELETED
+
+            //Card cardOne = new Card();
+            //cardOne.Face = "Queen";
+            //cardOne.Suit = "Spades";
+
+            //deck.Cards.Add(cardOne);
+
+            //Console.WriteLine(cardOne.Face + " of " + cardOne.Suit);
+            Console.ReadLine();
         }
     }
 }

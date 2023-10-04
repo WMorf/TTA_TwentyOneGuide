@@ -1,3 +1,16 @@
+CLASSES AND OBJECTS PART TWO VIDEO (Step: 267 C# & .NET)
+Program.cs
+	Instantiated Card object
+		Output card to console
+	Instantiated Deck object
+		added card to deck
+Card.cs
+	Added Constructor
+Added Deck.cs
+	Added Properties(Cards)
+	Added Constructor
+
+
 CLASSES AND OBJECTS PART ONE VIDEO (Step: 265 C# & .NET)
 Added Card.cs
 	Added Properties (Suit, Face)

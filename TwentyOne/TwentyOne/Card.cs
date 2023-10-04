@@ -6,8 +6,13 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    class Card
+    public class Card // Make sure class is public
     {
+        public Card()
+        {
+            Suit = "Spades";
+            Face = "Two";
+        }
         public string Suit { get; set; }
         public string Face { get; set; }
     }
