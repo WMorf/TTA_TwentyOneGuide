@@ -1,20 +1,29 @@
-CLASSES AND OBJECTS PART TWO VIDEO (Step: 267 C# & .NET)
-Program.cs
-	Instantiated Card object
-		Output card to console
-	Instantiated Deck object
-		added card to deck
-Card.cs
-	Added Constructor
-Added Deck.cs
-	Added Properties(Cards)
-	Added Constructor
+CLASSES AND OBJECTS PART Three VIDEO (Step: 269 C# & .NET) -
+	Deck.cs
+		Added foreach loops to Constructor
+	Program.cs
+		Added foreach to print cards from deck and # of cards.
 
 
-CLASSES AND OBJECTS PART ONE VIDEO (Step: 265 C# & .NET)
-Added Card.cs
-	Added Properties (Suit, Face)
+CLASSES AND OBJECTS PART TWO VIDEO (Step: 267 C# & .NET) -
+	Program.cs
+		Instantiated Card object
+			Output card to console
+		Instantiated Deck object
+			added card to deck
+	Card.cs
+		Added Constructor
+	Added Deck.cs
+		Added Properties(Cards)
+		Added Constructor
+
+
+
+CLASSES AND OBJECTS PART ONE VIDEO (Step: 265 C# & .NET) - 
+	Added Card.cs
+		Added Properties (Suit, Face)
+
 
 Initial -
-Template: Console Application (.NET)
-Framework: .NET Framework 4.7.2
+	Template: Console Application (.NET)
+	Framework: .NET Framework 4.7.2
