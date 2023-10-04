@@ -1,3 +1,7 @@
+CLASSES AND OBJECTS PART ONE VIDEO (Step: 265 C# & .NET)
+Added Card.cs
+	Added Properties (Suit, Face)
+
 Initial -
 Template: Console Application (.NET)
 Framework: .NET Framework 4.7.2
