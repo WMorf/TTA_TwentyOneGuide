@@ -1,4 +1,9 @@
-CLASSES AND OBJECTS PART Three VIDEO (Step: 269 C# & .NET) -
+METHODS VIDEO (Step: 273 C# & .NET) -
+	Deck.cs
+		Added Shuffle method
+
+
+CLASSES AND OBJECTS PART THREE VIDEO (Step: 269 C# & .NET) -
 	Deck.cs
 		Added foreach loops to Constructor
 	Program.cs
@@ -16,7 +21,6 @@ CLASSES AND OBJECTS PART TWO VIDEO (Step: 267 C# & .NET) -
 	Added Deck.cs
 		Added Properties(Cards)
 		Added Constructor
-
 
 
 CLASSES AND OBJECTS PART ONE VIDEO (Step: 265 C# & .NET) - 
