@@ -1,3 +1,13 @@
+CLASS METHODS VIDEO (Step: 283 C# & .NET) -
+	Deck.cs
+		Moved Shuffle() to Deck.cs from Program.cs
+		Removed static, deck, and Out Param from Shuffle()
+		Changed Shuffle() to void method
+	Program.cs
+		Call Shuffle() from the deck object
+		removed timesShuffled output
+
+
 MORE WITH METHODS VIDEO (Step: 277 C# & .NET) -
 	Program.cs
 		Overloaded Shuffle() Method
