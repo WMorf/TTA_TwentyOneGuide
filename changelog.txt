@@ -1,3 +1,10 @@
+INHERITANCE PART ONE VIDEO (Step: 288 C# & .NET)
+	Added Game.cs
+		Added public keyword to class
+		Added Players,Name, and Dealer properties
+		added ListPlayers() void method
+	*Incomplete at Video end, will cause compile errors*
+
 CLASS METHODS VIDEO (Step: 283 C# & .NET) -
 	Deck.cs
 		Moved Shuffle() to Deck.cs from Program.cs
