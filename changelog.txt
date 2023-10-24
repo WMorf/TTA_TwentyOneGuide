@@ -1,3 +1,10 @@
+POLYMORPHISM VIDEO (Step: 295 C# & .NET)
+	Added Player.cs
+		Added Properties Hand,Balance,Name,isActivelyPlaying
+	Added Dealer.cs
+		Added Deal() method
+
+
 INHERITANCE PART TWO VIDEO (Step: 290 C# & .NET)
 	Added TwentyOneGame.cs
 		Inherited Game.cs
@@ -8,7 +15,7 @@ INHERITANCE PART ONE VIDEO (Step: 288 C# & .NET)
 	Added Game.cs
 		Added public keyword to class
 		Added Players,Name, and Dealer properties
-		added ListPlayers() void method
+		Added ListPlayers() void method
 	*Incomplete at Video end, will cause compile errors*
 
 
