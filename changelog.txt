@@ -1,9 +1,16 @@
+INHERITANCE PART TWO VIDEO (Step: 290 C# & .NET)
+	Added TwentyOneGame.cs
+		Inherited Game.cs
+		Added Play() method - Not Implemented
+
+
 INHERITANCE PART ONE VIDEO (Step: 288 C# & .NET)
 	Added Game.cs
 		Added public keyword to class
 		Added Players,Name, and Dealer properties
 		added ListPlayers() void method
 	*Incomplete at Video end, will cause compile errors*
+
 
 CLASS METHODS VIDEO (Step: 283 C# & .NET) -
 	Deck.cs
