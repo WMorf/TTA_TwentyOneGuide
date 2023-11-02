@@ -1,3 +1,12 @@
+INTERFACES VIDEO (Step: 304 C# & .NET)
+	Program.cs
+		Reverted off screen, removing "game" object
+	Added IWalkAway Interface
+		Added WalkAway() void method
+	TwentyOneGame.cs
+		Inherited IWalkAway
+		Added Walkaway() - Not Implemented
+
 ABSTRACT CLASSES VIDEO (Step: 300 C# & .NET)
 	Game.cs
 		Set class to abstract
