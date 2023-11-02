@@ -1,3 +1,15 @@
+ABSTRACT CLASSES VIDEO (Step: 300 C# & .NET)
+	Game.cs
+		Set class to abstract
+		Added abstract void method Play()
+		Added "virtual" keyword to ListPlayers()
+	TwentyOneGame.cs
+		Added "override" keyword to Play()
+		Added ListPlayers()
+	Program.cs
+		Instantiated and utilized TwentyOneGame object "game"
+		Assigned Values to game.Players
+
 POLYMORPHISM VIDEO (Step: 295 C# & .NET)
 	Added Player.cs
 		Added Properties Hand,Balance,Name,isActivelyPlaying
